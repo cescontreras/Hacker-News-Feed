@@ -11,6 +11,9 @@ In order to run this container you'll need docker installed.
 
 ## Usage
 
+On root dir 
 `` $ docker-compose up --build  ``
 
-Then you'll see the app running on localhost:3000
+Then you'll see the app running on 
+
+``localhost:3000``
